@@ -1,2 +1,4 @@
 # Project_2
-for commiting codes
+
+
+#### This Project contains all the steps for installing an NGINX Web Server.
